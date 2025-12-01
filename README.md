@@ -1,7 +1,7 @@
 # jpa-demo
 Spring Boot + Spring Data JPA + MySQL + Docker 기반 CRUD
 
-# 젠틀몬스터 지원용 JPA 실무 데모
+# JPA 실무 데모
 
 - Spring Boot 3 + Spring Data JPA + MySQL + Docker
 - 1:N, N:1, N:N 관계 + Cascade + Fetch Lazy
