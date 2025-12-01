@@ -1,6 +1,3 @@
-# jpa-demo
-Spring Boot + Spring Data JPA + MySQL + Docker 기반 CRUD
-
 # JPA 실무 데모
 
 - Spring Boot 3 + Spring Data JPA + MySQL + Docker
